@@ -15,6 +15,6 @@ LeetMetric is a web application that fetches user data from LeetCode and display
 
 
 ## Live Demo
-You can access the live version of LeetMetric here:
+You can access the live version of LeetMetric here: https://vedsojitra.github.io/LeetMetric/
 
 

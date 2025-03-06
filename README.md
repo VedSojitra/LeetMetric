@@ -13,6 +13,8 @@ LeetMetric is a web application that fetches user data from LeetCode and display
 - **CSS**: Styling for a user-friendly interface.
 - **JavaScript**: Fetches and processes data from LeetCode API.
 
+## Usage
+1. Use this link: [CORS Anywhere](https://cors-anywhere.herokuapp.com/) to request temporary access.
 
 ## Live Demo
 You can access the live version of LeetMetric here: https://vedsojitra.github.io/LeetMetric/
